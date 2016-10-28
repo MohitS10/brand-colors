@@ -16,6 +16,8 @@ var _brandColors = {
   'about-me-4': '#cc7a00',
   'about-me-5': '#ffcc33',
   'addvocate': '#ff3322',
+  'adidas': '#010101',
+  'adidas-2': '#ffffff',
   'adobe': '#ff0000',
   'adobe-2': '#fbb034',
   'adobe-3': '#ffdd00',
